@@ -13,5 +13,5 @@
     "lib": ["dom", "es6"]
   },
   "include": ["src/**/*"], // Specify the directory to be included in the compilation.
-  "exclude": ["node_modules", "**/*.test.ts", "**/*.test.tsx"] // Exclude tests and node_modules from the compilation.
+  "exclude": ["node_modules", "**/*.test.ts", "**/*.test.tsx", "src/stories/**/*", "**/*.stories.tsx"] // Exclude tests and node_modules from the compilation.
 }

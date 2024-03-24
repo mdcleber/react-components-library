@@ -1,4 +1,3 @@
-import MDArticle from './components/Article/MDArticle';
-import MDHeader from './components/Header/MDHeader';
+import MDCheckBox from './components/MDCheckBox/MDCheckBox';
+export { MDCheckBox };
 
-export { MDArticle, MDHeader };
